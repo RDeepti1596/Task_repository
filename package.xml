@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Test_Object__c.Test_Check__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Test_Object__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test_Object__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Test_Object__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Test_Object__c-Test_Object Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Test_Object__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Test_Object__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Test_Object__c</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <version>63.0</version>
+</Package>
